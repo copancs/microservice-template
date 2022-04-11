@@ -47,10 +47,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ljlm0402/typescript-express-starter.git"
+    "url": "git+https://github.com/copancs/microservice-template"
   },
   "bugs": {
-    "url": "https://github.com/ljlm0402/typescript-express-starter/issues"
+    "url": "https://github.com/copancs/microservice-template/issues"
   },
-  "homepage": "https://github.com/ljlm0402/typescript-express-starter#readme"
+  "homepage": "https://github.com/copancs/microservice-template"
 }
