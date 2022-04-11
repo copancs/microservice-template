@@ -24,7 +24,7 @@
   ],
   "main": "bin/cli.js",
   "bin": {
-    "typescript-express-starter": "bin/cli.js"
+    "copancs-microservice-template": "bin/cli.js"
   },
   "scripts": {
     "start": "node bin/cli.js"
