@@ -3,7 +3,7 @@ name: npm publish
 on:
   pull_request:
     branches:
-      - master
+      - main
     paths:
       - package.json
 
